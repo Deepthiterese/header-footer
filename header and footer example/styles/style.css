@@ -1,0 +1,39 @@
+header {
+    background-color: rgb(57, 120, 139);
+
+    height: 140px;
+
+}
+h1 {
+    padding-top: 50px;
+    width: 500px;
+    margin: auto;
+}
+
+main {
+    width: 400px;
+    height: 190px;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.one,
+.two,
+.three {
+    width: 200px;
+    height: 145px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+    background-color: rgb(57, 120, 139);
+}
+body {
+    margin: 0;
+}
